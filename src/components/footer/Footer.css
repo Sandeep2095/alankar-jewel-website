@@ -1,0 +1,85 @@
+.footer-outer-div {
+	background: black !important;
+}
+
+.container {
+	background: black;
+	color: white;
+}
+
+.Footer-logo img {
+	height: 200px;
+	width: 200px;
+	display: inline;
+}
+
+.footer-h3 {
+	color: #fbbc93;
+	margin: 0 0 20px;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: 'PT Serif', serif;
+	font-weight: 400 !important;
+	letter-spacing: 0.2rem;
+}
+
+.footer-text {
+	font-size: small;
+	text-align: justify;
+	font-family: 'RegularCaslon';
+	/* text-align: left; */
+	color: #fff;
+	line-height: 1.6rem;
+}
+
+.form-control {
+	background: #000000;
+	border: none;
+	border-bottom: 1px solid #cccccc;
+}
+
+.footer-form {
+	color: #fff;
+}
+
+.footer-reach-us {
+	color: #cccccc;
+	font-family: 'RegularCaslon';
+	line-height: 1.6rem;
+}
+
+.footer-reach-us .f-nav {
+	color: #fbbc93;
+}
+
+.social-links a {
+	margin-right: 5px !important;
+	border-bottom: none !important;
+}
+
+.nav .nav-item .social-links {
+	margin-left: 8px;
+}
+
+.nav .nav-item a {
+	font-family: 'RegularCaslon';
+	font-size: 14px;
+	color: #cccccc;
+	padding: 11px 0 11px !important;
+	border-bottom: 1px solid #767676;
+	font-weight: 400 !important;
+}
+
+.nav .nav-item .nav-link:hover {
+	color: #fbbc93;
+}
+
+.nav .nav-item .social-links:hover {
+	color: #fbbc93;
+}
+
+@media screen and (max-width: 900px) {
+	.col-sm-6 {
+		margin-bottom: 5rem !important;
+	}
+}
